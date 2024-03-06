@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @silas-brasil-gupy
 - 👀 I’m interested in Backend Development with NestJS and PostgreSQL
-- 🌱 I’m currently learning Java + Spring Boot
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java + Spring Boot, Golang
+- 💞️ I’m collaborating on Gupy EduCorp
 - 📫 How to reach me on silas.brasil@gupy.com.br
 
 <!---
